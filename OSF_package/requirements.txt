@@ -1,0 +1,11 @@
+
+pandas==2.2.2
+numpy==1.26.4
+scipy==1.11.4
+statsmodels==0.14.2
+scikit-learn==1.4.2
+gensim==4.3.3
+jieba==0.42.1
+snownlp==0.12.3      
+# Primary sentiment labels were produced with the Anthropic API (Claude Opus 4.8);
+

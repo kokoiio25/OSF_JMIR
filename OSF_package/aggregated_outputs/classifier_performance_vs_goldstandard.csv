@@ -1,0 +1,5 @@
+﻿method,type,accuracy,macro_F1,cohen_kappa
+Claude,LLM,0.883,0.86,0.769
+NTUSD (traditional Chinese),lexicon,0.505,0.435,0.194
+NTUSD (simplified Chinese),lexicon,0.474,0.406,0.161
+SnowNLP,pretrained model,0.199,0.202,0.044
